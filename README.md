@@ -1,2 +1,2 @@
 # INSTABOT
-Automated Instagram Surfer
+Made an automated Instagram surfer and scraped data using Selenium. The automation includes logging-in to Instagram account. Searching for Instagram pages and visiting them. Liking/Unliking the posts on a page. Extracting lists of followers and following of various pages. Viewing stories of different pages. Finding out the words and hashtags that are used the most by various public food bloggers and making visualizations to present the data collected.
